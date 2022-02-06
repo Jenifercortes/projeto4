@@ -1,0 +1,12 @@
+.footer { 
+  width: 100%;
+  white-space: nowrap;
+  height: 40px;
+
+}
+
+
+.footer img {
+width: 25%;
+height: 25px;
+}
